@@ -1,0 +1,11 @@
+[1mdiff --git a/newFile.html b/newFile.html[m
+[1mindex 22de083..aa1e8a7 100644[m
+[1m--- a/newFile.html[m
+[1m+++ b/newFile.html[m
+[36m@@ -3,5 +3,5 @@[m
+ </p>[m
+ [m
+ <p>[m
+[31m-  This is new feature (button)[m
+[32m+[m[32m  This is new feature (dropdown)[m
+ </p>[m
